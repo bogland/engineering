@@ -12,5 +12,6 @@
 ## 방향
 kmooc 강의 청취후 이론을 파이썬으로 시각화 및 풀이  
 http://www.kmooc.kr/  
+https://m.blog.naver.com/airline36/221016385949
 Youtube 편집 후 올려보기  
 
