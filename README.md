@@ -3,8 +3,8 @@
 
 ## 목표  
 #### 정역학    
-https://www.youtube.com/channel/UCxTO0Vl-HDhO277iWA7DK_w
-https://kooc.kaist.ac.kr/solidmechanics-1/lecture/60489/?isDesc=false
+https://www.youtube.com/channel/UCxTO0Vl-HDhO277iWA7DK_w  
+https://kooc.kaist.ac.kr/solidmechanics-1/lecture/60489/?isDesc=false  
 #### 동역학      
 #### 유체역학  
 #### 열역학  
